@@ -1,0 +1,27 @@
+{
+  "name": "sport_pickup",
+  "version": "1.0.0",
+  "description": "Pick-up game finder for various sports",
+  "main": "index.jsx",
+  "scripts": {
+    "react-dev": "webpack -d --watch --mode development"
+  },
+  "author": "Brenden Pennington",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^2.1.1",
+    "file-loader": "^4.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

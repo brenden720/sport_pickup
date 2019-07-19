@@ -1,0 +1,19 @@
+.user_container {
+  display: flex;
+  height: 120px;
+  border: 1px solid black;
+  margin-top: 10px;
+  justify-content: flex-start;
+}
+
+.user_picture {
+  flex: 1;
+}
+
+.user_data {
+  flex: 1;
+}
+
+.user_message {
+  flex: 1;
+}

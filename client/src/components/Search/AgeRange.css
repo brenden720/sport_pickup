@@ -1,0 +1,19 @@
+.age_container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#age {
+  flex: 1;
+  position: relative;
+  width: 50px;
+}
+
+#age1 {
+  margin-right: 5px;
+}
+
+#age2 {
+  margin-left: 5px;
+}
